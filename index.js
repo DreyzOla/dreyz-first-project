@@ -1,1 +1,6 @@
 console.log('hello world!')
+
+let a = 2;
+let b = 4;
+let sum = a + b;
+console.log(sum)
